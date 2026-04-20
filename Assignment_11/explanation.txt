@@ -1,0 +1,9 @@
+Explanation:
+
+For system_usage.py:
+I created a list of CPU usage values for 8 hours and calculated the average, max, and minimum usage. I used matplotlib to display the data in a bar chart.
+
+For log_analysis.py:
+I used pandas to read the CSV file and cleaned the data by converting all values to numeric and filling missing values with the column mean. Then I calculated the average response time for each service and created a pie chart to visualize the distribution.
+
+This assignment helped me understand how to clean data and visualize results using Python.
